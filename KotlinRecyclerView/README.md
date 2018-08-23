@@ -1,15 +1,15 @@
-Kotlin with RecyclerView
+**Kotlin with RecyclerView**
 
-Here I create a Recycler View App 
+_Here I create a Recycler View App_ 
 
--Create the Project
+`-Create the Project`
 
--Add the recycler view to the main activity
+`-Add the recycler view to the main activity`
 
--Create a template for the recycler view row
+`-Create a User model`
 
--Create a User model / class
+`-Create a CustomAdapter `
 
--Create a CustomAdapter to bind list of Users to the RecyclerView
+`-Create a template for the recycler view row`
 
--Connect RecyclerView to CustomerAdapter
+`-Connect RecyclerView to CustomerAdapter`
